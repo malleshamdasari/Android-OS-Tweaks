@@ -1,0 +1,3 @@
+totalFrames: 3287
+lateFrames: 522
+possibleLateFrames: 1

@@ -1,0 +1,2 @@
+dropFrames: 60
+dropFrames2: 0
